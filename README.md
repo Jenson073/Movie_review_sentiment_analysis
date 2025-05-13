@@ -20,6 +20,6 @@ This project is a simple **Sentiment Analysis** system that classifies movie rev
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Jenson073/movie-review-sentiment-analysis.git
-cd movie-review-sentiment-analysis
+git clone https://github.com/Jenson073/Movie_review_sentiment_analysis.git
+cd Movie_review_sentiment_analysis
 python Sentiment Analysis using NLTK's movie.py
